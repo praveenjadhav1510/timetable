@@ -1,0 +1,46 @@
+{
+  "Monday": {
+    "8:30": "HINDI",
+    "9:30": "KANNADA",
+    "11:00": "CN",
+    "12:00": "CC",
+    "2:00": "FULL STACK"
+  },
+  "Tuesday": {
+    "8:30": "FULL STACK",
+    "11:00": "CC",
+    "12:00": "DS",
+    "2:00": "KANNADA",
+    "3:00": "HINDI",
+    "4:00": "ST.Activity"
+  },
+  "Wednesday": {
+    "8:30": "FE",
+    "11:00": "DS",
+    "12:00": "English",
+    "2:00": "KANNADA",
+    "3:00": "CC",
+    "4:00": "Aptitude"
+  },
+  "Thursday": {
+    "8:30": "CC",
+    "9:30": "CN",
+    "11:00": "English",
+    "12:00": "DS",
+    "2:00": "HINDI",
+    "3:00": "FE"
+  },
+  "Friday": {
+    "8:30": "DS",
+    "11:00": "CC/DS Lab",
+    "12:00": "CC/DS Lab",
+    "2:00": "CN",
+    "4:00": "Aptitude"
+  },
+  "Saturday": {
+    "8:30": "CC/DS Lab",
+    "11:00": "CN",
+    "12:00": "English",
+    "4:00": "Aptitude"
+  }
+}
