@@ -34,7 +34,7 @@ A simple React application that displays a daily timetable. The timetable data i
   },
   "Tuesday": { .....
 ```
-## https://gist.github.com/praveenjadhav1510/6e4de92340a0b59ff7a93df55e2ddf1d
+#### https://gist.github.com/praveenjadhav1510/6e4de92340a0b59ff7a93df55e2ddf1d
 
 ## Dependency
 Check out package.json file
