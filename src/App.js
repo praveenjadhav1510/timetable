@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import './App.css';
-import Timetable from './Timetable';
+import Timetable from './components/Timetable';
+import ThemeSwitcher from './components/ThemeSwitcher';
 
 function App() {
   const [schedule, setSchedule] = useState(null);
@@ -26,6 +27,7 @@ function App() {
   }
   return (
     <div className="App">
+      <ThemeSwitcher />
       {schedule && <Timetable schedule={schedule} />}
     </div>
   );
