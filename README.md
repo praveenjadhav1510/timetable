@@ -53,3 +53,5 @@ Contributions are what make the open-source community such an amazing place to l
 Email - praveenjadhav1510@gmail.com
 
 Project Link: https://praveenjadhav1510.github.io/timetable/
+
+Download APK https://github.com/praveenjadhav1510/timetable/releases/download/TimeTable/time-table.apk
